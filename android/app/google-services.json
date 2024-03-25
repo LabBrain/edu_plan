@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1009295924262",
+    "project_id": "eduplah-db",
+    "storage_bucket": "eduplah-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009295924262:android:4ba219ab9f8988b33b9ae7",
+        "android_client_info": {
+          "package_name": "com.example.edu_plan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009295924262-l3ckjo4pe2b1hpu6pr4cokihoic2vbej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edu_plan",
+            "certificate_hash": "0b9c21dfbf2f0667806e4ee796a219f8cce46f59"
+          }
+        },
+        {
+          "client_id": "1009295924262-qgfpq1h3ul065a3cnj08v5vesnoh8hlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG2SIUGc4KpoEkOg4diFXfmp7a4E3n7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009295924262-qgfpq1h3ul065a3cnj08v5vesnoh8hlo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009295924262-pbsi2q861qhmmc6s5m0depderhod1hph.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eduPlan.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
